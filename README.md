@@ -7,8 +7,8 @@ A atividade foi desenvolvida em dupla como parte dos estudos de tecnologia, com 
 ---
 
 # 👥 Integrantes
-- Pessoa 1 (Líder): Mateus Henrique  
-- Pessoa 2:(colaborador) Julio Cesar 
+- Pessoa 1 (Líder): Mateus Henrique  ADS - RGM(11261104643)
+- Pessoa 2:(colaborador) Julio Cesar SI - RGM(11261102699)
 
 ---
 
