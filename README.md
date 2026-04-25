@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo apresentar um dicionário com 30 comandos essenciais do Linux, utilizando uma linguagem simples e exemplos práticos.
 
-A atividade foi desenvolvida em dupla como parte dos estudos de tecnologia, com foco no aprendizado prático do sistema Linux e uso do GitHub.
+A atividade foi desenvolvida em dupla como parte dos estudos de tecnologia para atividade acadêmica, com foco no aprendizado prático do sistema Linux e uso do GitHub.
 
 ---
 
